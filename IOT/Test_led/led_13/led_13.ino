@@ -16,5 +16,3 @@ void loop() {
   // Serial.write("on");
   delay(500);
 }
-
-// đoạn code này của tôi có chính xác không

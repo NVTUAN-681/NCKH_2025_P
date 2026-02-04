@@ -40,6 +40,7 @@ git merge <branch name>: gộp nhánh phụ được gọi tên về nhánh chí
 
 ----
 cat ~/... : đọc nội dung bên trong file bấy kỳ
+git commit --amend -m "Tên commit mới đúng"- sửa lại tên commit khi chưa đẩy lên github
 
 
 
